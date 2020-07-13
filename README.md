@@ -12,7 +12,7 @@ Hi, i'm nanda , currently  Back-end programmer, and  Data scientist soon to be. 
 |-------|-----------|-----------|
 |Java SE|Python     |Node.js    |
 |Java EE|C#         |Java Android		|
-|PHP |Dart  |	    |
+|PHP |  |	    |
 
 - 🔭 I’m currently working on various mobile apps project
 - 🌱 I’m currently learning Data science, Data analytics and Machine Learning.
