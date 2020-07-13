@@ -1,5 +1,5 @@
-## nandapermana🌸🌸
-![](https://raw.githubusercontent.com/nandapermana/Nanda-Permana/master/me.jpg)
+## Hi there! 🌸🌸
+![](https://raw.githubusercontent.com/nandapermana/Nanda-Permana/master/uwu.jpg)
 
 Hi, i'm nanda , currently  Back-end programmer, and  Data scientist soon to be. Previously worked on Chat Bot company as java back-end developer, and SMS Gateway company on South Jakarta as Php-Laravel developer. Now studying for a master's degree.
 
