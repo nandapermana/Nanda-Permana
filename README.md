@@ -17,6 +17,7 @@ Hi, i'm nanda , currently  Back-end programmer, and  Data scientist soon to be. 
 
 - 🔭 I’m currently working on various mobile apps project
 - 🌱 I’m currently learning Data science, Data analytics and Machine Learning.
+- 👩🏻‍🎨 Besides programming, i also loves drawing, especially in 2D digital illustrating with anime style, check out my Pixiv gallery. 
 
 
 ## Get In Touch 
